@@ -1,0 +1,3 @@
+/mnt/c/Users/sinca/OneDrive/Desktop/Facultate/An4/paoo/backup/tema2/build/CMakeFiles/ShoppingCart.dir
+/mnt/c/Users/sinca/OneDrive/Desktop/Facultate/An4/paoo/backup/tema2/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/sinca/OneDrive/Desktop/Facultate/An4/paoo/backup/tema2/build/CMakeFiles/rebuild_cache.dir
